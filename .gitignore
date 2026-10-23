@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/*.sqlite3*
+*.log
+data/browser-profiles/
+data/*.png
+.env
